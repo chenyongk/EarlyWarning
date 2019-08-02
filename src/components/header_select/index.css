@@ -1,0 +1,31 @@
+.event_analysisBox_header{
+    width: 100%;
+    height:60px;
+    background: #fff;
+    display: flex;
+    line-height:60px;
+    padding-left:15px;
+    font-size:14px;
+    font-family:'宋体';
+    justify-content: space-between
+}
+.event_analysisBox_header>div{
+    display: flex
+}
+.selectBox_select{
+    margin-right:10px;
+}
+.home{
+    padding:0 10px;
+    font-size:18px;
+}
+.btn{
+    width:80px;
+    height:60px;
+    line-height:60px;
+    color: #fff;
+    background:rgb(58, 128, 215);
+    border:0;
+    cursor: pointer;
+    margin-left:15px;
+}

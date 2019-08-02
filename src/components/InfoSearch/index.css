@@ -1,0 +1,53 @@
+.collapses{
+    margin-top:10px;
+}
+.conponese{
+    background: #fff;
+}
+.SelectContent{
+    width: 100%;
+    display: flex;
+}
+.selectContainer{
+    background:#fff;
+    padding:20px 0;
+    line-height:40px;
+}
+.downA{
+    font-size:24px;
+    margin:0 10px;
+}
+.SelectInput{
+    display: flex;
+    width: 90%;
+}
+.SelectInput button {
+    width: 15%;
+    height: 50px;
+    margin-right:10px;
+}
+.Selectsearch{
+    background: rgb(63, 171, 164);
+    color:#fff;
+    border:0;
+}
+.selectGuanli{
+    color:#ccc;
+    background: rgb(223, 237, 239);
+    border:0;
+}
+.collapsePage{
+    width: 100%;
+    height:80px;
+    background: #fff;
+    display: flex;
+    align-items: center;
+}
+.inputcon{
+    border:0;
+    height:50px;
+    background: #f1f1f1;
+}
+.selectOption{
+    width: 90%;
+}

@@ -1,0 +1,36 @@
+.header{
+    width: 100%;
+    height: 50px;
+}
+/* .stab{
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    font-size: 18px;
+} */
+.count{
+    width: 100%;
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 14px;
+    color:#000;
+    font-weight: 600;
+    line-height: 30px;  
+}
+.count li{
+    width: 24.9%;
+    text-align: center;
+    margin-left: 0.1%;
+    background: #ccc;
+}
+.count li span{
+    width: 10px;
+    float:right;
+    margin-right:15px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #8d8d8d;
+    cursor: pointer;
+}

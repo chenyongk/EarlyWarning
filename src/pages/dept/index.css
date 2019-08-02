@@ -1,0 +1,21 @@
+.deptTop{
+    margin: 30px 0 10px 0;   
+    display: flex;
+    justify-content: space-between;
+}
+.userWrapper p{
+    display: flex;
+    padding-top:20px;
+    justify-content: space-between;
+}
+.userWrapper p span{
+    display: inline-block;
+    width:150px;
+}
+.statusUser .userSpan{
+    display: inline-block;
+    width: 80px;
+}
+.statusUser{
+    padding-top:20px;
+}

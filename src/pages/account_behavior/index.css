@@ -1,0 +1,29 @@
+.title{
+    font-size: 26px;  
+    margin-top:10px;
+}
+.group-characteristics-box{
+    width:100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top:20px;
+}
+
+.group_characteristics_huoyue{
+    width: 49%;
+    height:400px;
+    background: #fff;
+    margin:10px 0;
+}
+.group_characteristics_huoyue h4{
+    height:60px;
+    line-height:60px;
+    font-size:18px;
+    border-bottom:1px solid #f1f1f1;
+    margin:0 10px;
+    color:#6ac5bf;
+}
+.group_characteristics_huoyue h4 .group_characteristics_huoyue_icon{
+    padding-right:5px;
+}

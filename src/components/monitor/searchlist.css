@@ -1,0 +1,29 @@
+.tabHeader{
+    height: 50px;
+    width: 100%;
+    background: skyblue;
+    line-height: 50px;
+    color:#fff;
+    padding: 0 20px
+}
+.tabCon>p{
+    height: 100px;
+}
+.tabCon>p>b{
+    display: inline-block;
+    width: 300px;
+    line-height: 100px
+}
+.tabcon{
+    display: inline-block;
+    width: 300px;
+}
+.tabcon i{
+    padding:5px;
+    text-align: center;
+    background: rgb(33, 126, 189);
+    color:#fff;
+    cursor: pointer;
+    margin:0 5px;
+    font-style: normal
+}
